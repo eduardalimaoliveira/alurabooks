@@ -1,6 +1,21 @@
 <!DOCTYPE html>
 <html>
     <head>
+    </head>
+    <body>
+    </body>
+</html><!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AluraBooks</title>
+    </head>
+    <body>
+    </body>
+</html><!DOCTYPE html>
+<html>
+    <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>AluraBooks</title>
@@ -10,12 +25,6 @@
     </body>
 </html>:root {
     --cor-de-fundo: #EBECEE;
-}:root {
-    --cor-de-fundo: #EBECEE;
-}
-
-body {
-    background-color: var(--cor-de-fundo);
 }<!DOCTYPE html>
 <html>
     <head>
